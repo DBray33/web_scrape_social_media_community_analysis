@@ -1,0 +1,112 @@
+{
+  "platform_distribution": {
+    "Facebook": 289,
+    "Reddit": 185,
+    "Discord": 35,
+    "Instagram": 15
+  },
+  "platform_metrics": [
+    {
+      "platform": "Discord",
+      "member_count_mean": 12795.257142857143,
+      "member_count_median": 807.0,
+      "member_count_sum": 447834.0,
+      "engagement_rate_mean": 0.2818971175320932,
+      "engagement_rate_median": 0.3099728293089643,
+      "post_frequency_mean": 0.0,
+      "post_frequency_median": 0.0,
+      "is_public_mean": 1.0
+    },
+    {
+      "platform": "Facebook",
+      "member_count_mean": 5567.114186851211,
+      "member_count_median": 4443.0,
+      "member_count_sum": 1608896.0,
+      "engagement_rate_mean": 0.04978655552936951,
+      "engagement_rate_median": 0.045560402451531354,
+      "post_frequency_mean": 8.866989619377163,
+      "post_frequency_median": 5.76,
+      "is_public_mean": 0.2629757785467128
+    },
+    {
+      "platform": "Instagram",
+      "member_count_mean": 45320.666666666664,
+      "member_count_median": 42848.0,
+      "member_count_sum": 679810.0,
+      "engagement_rate_mean": 0.027412998071548417,
+      "engagement_rate_median": 0.0252741520250901,
+      "post_frequency_mean": 0.0,
+      "post_frequency_median": 0.0,
+      "is_public_mean": 0.0
+    },
+    {
+      "platform": "Reddit",
+      "member_count_mean": 610321.3891891892,
+      "member_count_median": 79326.0,
+      "member_count_sum": 112909457.0,
+      "engagement_rate_mean": 0.0368187215920962,
+      "engagement_rate_median": 0.033602234823821193,
+      "post_frequency_mean": 0.0,
+      "post_frequency_median": 0.0,
+      "is_public_mean": 1.0
+    }
+  ],
+  "normalized_engagement": [
+    {
+      "platform": "Discord",
+      "normalized_engagement": 0.1409485587660466
+    },
+    {
+      "platform": "Facebook",
+      "normalized_engagement": 0.039829244423495606
+    },
+    {
+      "platform": "Instagram",
+      "normalized_engagement": 0.032895597685858105
+    },
+    {
+      "platform": "Reddit",
+      "normalized_engagement": 0.0368187215920962
+    }
+  ],
+  "category_platform_distribution": {
+    "General": {
+      "Reddit": 185,
+      "Discord": 35,
+      "Instagram": 15
+    },
+    "Career Transitions": {
+      "Facebook": 21
+    },
+    "Business": {
+      "Facebook": 16
+    },
+    "Communications": {
+      "Facebook": 16
+    },
+    "Scholarships": {
+      "Facebook": 14
+    },
+    "Law": {
+      "Facebook": 14
+    },
+    "Networking": {
+      "Facebook": 14
+    },
+    "Liberal Arts": {
+      "Facebook": 13
+    },
+    "Campus Housing": {
+      "Facebook": 12
+    },
+    "Medicine": {
+      "Facebook": 12
+    }
+  },
+  "avg_community_size": {
+    "Discord": 12795.257142857143,
+    "Facebook": 5567.114186851211,
+    "Instagram": 45320.666666666664,
+    "Reddit": 610321.3891891892
+  }
+}

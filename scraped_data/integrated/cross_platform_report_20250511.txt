@@ -1,0 +1,90 @@
+
+Cross-Platform Community Analysis Report
+=======================================
+Date: 2025-05-11 14:21:50
+
+Overview:
+---------
+Total communities analyzed: 235
+Communities by platform:
+  - Reddit: 185 communities (78.7%)
+  - Discord: 35 communities (14.9%)
+  - Instagram: 15 communities (6.4%)
+
+Community Size Statistics by Platform:
+---------------------------------
+Discord:
+  - Average members: 12795.3
+  - Median members: 807.0
+  - Largest community: 149779 members
+  - Total members: 447834
+  - Average activity ratio: 6.62%
+
+Instagram:
+  - Average members: 45320.7
+  - Median members: 42848.0
+  - Largest community: 95596 members
+  - Total members: 679810
+  - Average activity ratio: 2.74%
+
+Reddit:
+  - Average members: 610321.4
+  - Median members: 79326.0
+  - Largest community: 45897835 members
+  - Total members: 112909457
+  - Average activity ratio: nan%
+
+Size Distribution by Platform:
+----------------------------
+Large (10K-100K):
+  - Discord: 10 communities (28.6%)
+  - Instagram: 0 communities (0.0%)
+  - Reddit: 67 communities (36.2%)
+
+Large (50K-100K):
+  - Discord: 0 communities (0.0%)
+  - Instagram: 6 communities (40.0%)
+  - Reddit: 0 communities (0.0%)
+
+Massive (>100K):
+  - Discord: 1 communities (2.9%)
+  - Instagram: 0 communities (0.0%)
+  - Reddit: 83 communities (44.9%)
+
+Medium (10K-50K):
+  - Discord: 0 communities (0.0%)
+  - Instagram: 7 communities (46.7%)
+  - Reddit: 0 communities (0.0%)
+
+Medium (1K-10K):
+  - Discord: 5 communities (14.3%)
+  - Instagram: 0 communities (0.0%)
+  - Reddit: 35 communities (18.9%)
+
+Small (100-1K):
+  - Discord: 14 communities (40.0%)
+  - Instagram: 0 communities (0.0%)
+  - Reddit: 0 communities (0.0%)
+
+Small (5K-10K):
+  - Discord: 0 communities (0.0%)
+  - Instagram: 2 communities (13.3%)
+  - Reddit: 0 communities (0.0%)
+
+Tiny (<100):
+  - Discord: 5 communities (14.3%)
+  - Instagram: 0 communities (0.0%)
+  - Reddit: 0 communities (0.0%)
+
+
+Key Findings:
+------------
+1. Platform Size Comparison: [to be filled based on actual data]
+2. User Activity Patterns: [to be filled based on actual data]
+3. Community Distribution: [to be filled based on actual data]
+
+Recommendations:
+--------------
+1. [to be filled based on actual data]
+2. [to be filled based on actual data]
+3. [to be filled based on actual data]

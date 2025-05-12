@@ -1,0 +1,43 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Scraped data (if large or containing sensitive data)
+# Uncomment if you don't want to include scraped data in the repository
+# scraped_data/
+
+# Logs
+logs/
+*.log
+
+# Generated visualizations (if too large or regenerated often)
+# Uncomment if you don't want to include visualizations in the repository
+# visualizations/
+
+# Temporary files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+.idea/
+*.tmp
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env.local
+.env.development.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

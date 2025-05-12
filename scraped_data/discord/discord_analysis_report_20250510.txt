@@ -1,0 +1,24 @@
+
+Discord Communities Analysis Report
+==================================
+Date: 2025-05-10 20:22:05
+
+Summary Statistics:
+------------------
+Total Discord servers analyzed: 35
+Total members across all servers: 447,834
+Average members per server: 12795.3
+Median members per server: 807.0
+Largest server: Study Here with 149,779 members
+Smallest server: 6 members
+Average online activity ratio: 6.6%
+
+Server Size Distribution:
+-----------------------
+Tiny (<100): 5 servers (14.3%)
+Small (100-1K): 14 servers (40.0%)
+Medium (1K-10K): 5 servers (14.3%)
+Large (10K-100K): 10 servers (28.6%)
+Massive (>100K): 1 servers (2.9%)
+
+Correlation between total members and online members: 0.931

@@ -1,0 +1,5 @@
+,subscribers,subscribers,subscribers,subscribers,subscribers,activity_ratio,activity_ratio,activity_ratio,activity_ratio
+,count,mean,median,min,max,mean,median,min,max
+platform,,,,,,,,,
+Discord,35,12795.257142857143,807.0,6.0,149779.0,0.06615730034923424,0.0625,0.0,0.1428571428571428
+Reddit,185,610321.3891891892,79326.0,1239.0,45897835.0,,,,

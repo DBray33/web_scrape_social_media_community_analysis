@@ -1,0 +1,57 @@
+
+Instagram Communities Analysis Report
+====================================
+Date: 2025-05-11 14:20:51
+
+Summary Statistics:
+------------------
+Total Instagram communities analyzed: 15
+Student-focused communities: 8 (53.3%)
+Professional-focused communities: 7 (46.7%)
+
+Total followers across all communities: 679,810
+Average followers per community: 45,320
+Median followers per community: 42,848
+Largest community: business_internshipswx with 95,596 followers
+Smallest community: 8,050 followers
+
+Engagement Metrics:
+-----------------
+Average engagement rate: 2.74%
+Most engaging community: college_studentlifeas with 4.97% engagement
+
+Size Distribution:
+----------------
+Micro (<5K): 0 communities (0.0%)
+Small (5K-10K): 2 communities (13.3%)
+Medium (10K-50K): 7 communities (46.7%)
+Large (50K-100K): 6 communities (40.0%)
+Massive (>100K): 0 communities (0.0%)
+
+Top 5 Most Relevant Communities:
+-----------------------------
+1. business_internshipswx (Professional-focused)
+   Followers: 95,596, Posts: 239
+   Engagement Rate: 2.18%
+   Description: Community for corporate resume skills professional development. Follow for daily content!...
+
+2. work_jobsearchc (Professional-focused)
+   Followers: 73,260, Posts: 208
+   Engagement Rate: 2.63%
+   Description: Community for interview employment business development leadership. Follow for daily content!...
+
+3. job_careeradvicedldjq (Professional-focused)
+   Followers: 56,719, Posts: 980
+   Engagement Rate: 3.80%
+   Description: Community for corporate success employment leadership. Follow for daily content!...
+
+4. college_universitylifeeha (Student-focused)
+   Followers: 44,316, Posts: 691
+   Engagement Rate: 2.06%
+   Description: Community for education degree exams study scholarship. Follow for daily content!...
+
+5. university_gradschool (Student-focused)
+   Followers: 38,431, Posts: 458
+   Engagement Rate: 3.15%
+   Description: Community for lectures students education major study. Follow for daily content!...
+
